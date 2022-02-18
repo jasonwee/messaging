@@ -23,18 +23,6 @@ endif::[]
 :sectnums!:
 include::license-efsl.adoc[]
 
-:sectnums!:
-== Changelog
-
-=== Version 3.0.0
-* namespace changed from javax to jakarta
-* JMS renamed to Jakarta Messaging
-* Java EE renamed to Jakarta EE
-* added speclicense.html
-* added module api and spec
-
-
-
 :sectnums:
 == Introduction
 
@@ -6836,6 +6824,14 @@ TextMessage which throw JMSException.
 
 [appendix]
 == Change history
+
+=== Version 3.0
+* namespace changed from javax to jakarta
+* JMS renamed to Jakarta Messaging
+* Java EE renamed to Jakarta EE
+* added speclicense.html
+* added module api and spec
+
 
 === Version 2.0 
 
